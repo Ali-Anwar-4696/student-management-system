@@ -112,6 +112,7 @@ student-management/
 |-- student/        # Student functionality
 |-- teacher/        # Teacher functionality
 |-- uploads/        # User-uploaded files
+|-- screenshots/    # Project screenshots
 |
 |-- index.php
 |-- notifications.php
@@ -201,7 +202,75 @@ The demo will cover the main workflows of the Admin, Teacher, Student, and Paren
 
 ## Screenshots
 
-Project screenshots will be added here to demonstrate the main dashboards and workflows.
+The following screenshots demonstrate the main dashboards, workflows, and role-based areas of StudentHub.
+
+### Authentication
+
+![StudentHub Login](screenshots/01-login.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/02-admin-dashboard.png)
+
+### Student Management
+
+![Admin Student Management](screenshots/03-admin-students.png)
+
+### Teacher Management
+
+![Admin Teacher Management](screenshots/04-admin-teachers.png)
+
+### Class Management
+
+![Admin Classes](screenshots/05-admin-classes.png)
+
+### Section Management
+
+![Admin Sections](screenshots/06-admin-sections.png)
+
+### Teacher Dashboard
+
+![Teacher Dashboard](screenshots/07-teacher-dashboard.png)
+
+### Attendance
+
+![Teacher Attendance](screenshots/08-teacher-attendance.png)
+
+### Exams
+
+![Teacher Exams](screenshots/09-teacher-exams.png)
+
+### Marks Management
+
+![Teacher Marks](screenshots/10-teacher-marks.png)
+
+### Student Results
+
+![Student Results](screenshots/11-student-results.png)
+
+### Result Details
+
+![Student Result Details](screenshots/12-student-result-detail.png)
+
+### Assignments
+
+![Assignments](screenshots/13-assignments.png)
+
+### Fees
+
+![Fees Management](screenshots/14-fees.png)
+
+### Timetable
+
+![Student Timetable](screenshots/15-student-timetable.png)
+
+### Parent Dashboard
+
+![Parent Dashboard](screenshots/16-parent-dashboard.png)
+
+### Parent Child Details
+
+![Parent Child Details](screenshots/17-parent-child-detail.png)
 
 ## Project Objective
 
