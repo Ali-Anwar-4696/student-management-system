@@ -113,6 +113,7 @@ student-management/
 |-- teacher/            # Teacher functionality
 |-- uploads/            # User-uploaded files
 |-- screenshots/        # Project screenshots
+|-- video/              # Project demonstration video
 |
 |-- index.php
 |-- notifications.php
@@ -198,13 +199,11 @@ http://localhost/student-management/
 
 ### 🎥 Video Demo
 
-Watch the complete StudentHub project walkthrough on YouTube:
+The complete StudentHub project demonstration is available in the repository.
 
-**StudentHub | Student Management System Demo**
+**[▶ View StudentHub Project Demo](video/StudentHub%20_%20Student%20Management%20System%20Demo.mp4)**
 
-https://youtu.be/HaUyvIYPrYg
-
-The video demonstrates the main workflows and role-based areas of the system, including Admin, Teacher, Student, and Parent functionality.
+The demo covers the main workflows and role-based areas of the system, including Admin, Teacher, Student, and Parent functionality.
 
 ## Screenshots
 
